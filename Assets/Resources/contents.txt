@@ -1,0 +1,5 @@
+index	result	content
+0	1	개발자는 빨강, 핑크, 흰색을 좋아한다.
+1	0	이 게임의 개발사는 TEAM REALITY이다.
+2	1	이 게임의 개발사는 TEAM REALLY이다.
+3	0	개발자는 빨강, 핑크, 녹색을 좋아한다.
